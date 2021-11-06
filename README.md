@@ -1,12 +1,11 @@
-![image](https://drive.google.com/uc?export=view&id=1EEbkI9olmXfdFyJhhMa0zI9FjgsodNps)
 <div align="center">
 <br>
 <h3>
 Auto-detection of Southern sea otters (Enhydra lutris nereis) from aerial imaging on the Monterey Peninsula
 </h3>
-<h5>
+<h4>
 Margaret Daly, Carlota Pares-Morlans, Mohammed Salman
-</h5>
+</h4>
 <p>
 <i>A project for CS230: Deep Learning, Fall 2021, Stanford University, CA.</i>
 </p>
@@ -28,4 +27,4 @@ The folder ```./src/output``` includes the generated plots as well as the log fr
     |-- ./src/output
     `-- ./src/yolov5-master
 ```
-
+![image](https://drive.google.com/uc?export=view&id=1EEbkI9olmXfdFyJhhMa0zI9FjgsodNps)
