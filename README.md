@@ -1,7 +1,5 @@
+![image](https://drive.google.com/uc?export=view&id=1EEbkI9olmXfdFyJhhMa0zI9FjgsodNps)
 <div align="center">
-<p>
-   <iframe src="https://drive.google.com/file/d/1EEbkI9olmXfdFyJhhMa0zI9FjgsodNps/preview" width="640" height="480"></iframe>
-</p>
 <br>
 <h3>
 Auto-detection of Southern sea otters (Enhydra lutris nereis) from aerial imaging on the Monterey Peninsula
