@@ -16,6 +16,7 @@ Margaret Daly, Carlota Pares-Morlans, Mohammed Salman
 The main file for this project is ```./src/YOLOv5_SeaOtter_OD.ipynb```. It calls the necessary files from the ```./src/yolov5-master``` folder and trains the modified YOLOv5 model for small object detection. 
 
 The folder ```./src/utils``` includes some functions that have been used for preprocessing and analyzing the dataset, as well as some helpers for visualizing the outputs.
+```
 .
 |-- ./sample_dataset
 |-- ./src

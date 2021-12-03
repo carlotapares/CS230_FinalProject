@@ -1,0 +1,16 @@
+# Sea otter dataset
+
+# parent
+# ├── Code
+# ├── yolov5
+# ├── sea_otter_dataset
+
+# Train/val/test sets
+path: ../sea_otter_dataset/dataset_otters_clusters_background/
+train: images/train
+val: images/validation
+test: images/test
+
+# Classes
+nc: 1
+names: ['sea_otter']
